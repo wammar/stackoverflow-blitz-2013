@@ -1,4 +1,4 @@
-B1;2cstackoverflow-blitz-2013
+stackoverflow-blitz-2013
 ========================
 
 dump version: 2012/08/12
